@@ -13,7 +13,7 @@ import io.vov.vitamio.widget.VideoView;
 
 public class TvActivity extends Activity {
 	
-	private String path = "http://samples.mplayerhq.hu/mobileVideo_3gp/ambiance.3gp";
+	private String path = "http://samples.mplayerhq.hu/mobileVideo_3gp/ MrBean.3gp";
 	private VideoView mVideoView;
 	
 	
